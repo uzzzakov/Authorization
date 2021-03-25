@@ -1,0 +1,16 @@
+C:\Users\Manucho\source\repos\AuthorizationApp\bin\Debug\AuthorizationApp.exe.config
+C:\Users\Manucho\source\repos\AuthorizationApp\bin\Debug\AuthorizationApp.exe
+C:\Users\Manucho\source\repos\AuthorizationApp\bin\Debug\AuthorizationApp.pdb
+C:\Users\Manucho\source\repos\AuthorizationApp\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Manucho\source\repos\AuthorizationApp\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Manucho\source\repos\AuthorizationApp\obj\Debug\AuthorizationApp.csprojAssemblyReference.cache
+C:\Users\Manucho\source\repos\AuthorizationApp\obj\Debug\AuthorizationApp.Form1.resources
+C:\Users\Manucho\source\repos\AuthorizationApp\obj\Debug\AuthorizationApp.Properties.Resources.resources
+C:\Users\Manucho\source\repos\AuthorizationApp\obj\Debug\AuthorizationApp.csproj.GenerateResource.cache
+C:\Users\Manucho\source\repos\AuthorizationApp\obj\Debug\AuthorizationApp.csproj.CoreCompileInputs.cache
+C:\Users\Manucho\source\repos\AuthorizationApp\obj\Debug\AuthorizationApp.csproj.CopyComplete
+C:\Users\Manucho\source\repos\AuthorizationApp\obj\Debug\AuthorizationApp.exe
+C:\Users\Manucho\source\repos\AuthorizationApp\obj\Debug\AuthorizationApp.pdb
+C:\Users\Manucho\source\repos\AuthorizationApp\obj\Debug\AuthorizationApp.AuthPage.resources
+C:\Users\Manucho\source\repos\AuthorizationApp\obj\Debug\AuthorizationApp.PassChange.resources
+C:\Users\Manucho\source\repos\AuthorizationApp\obj\Debug\AuthorizationApp.Registration.resources
